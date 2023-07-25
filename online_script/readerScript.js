@@ -59,4 +59,4 @@
       };
 
       // Call the function to apply the changes
-      doc88ReaderMode();
+      d8ReaderMode();
